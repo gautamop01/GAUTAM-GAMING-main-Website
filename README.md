@@ -6,7 +6,7 @@ All Components of this website -
 ### Website - https://esportscommunity.netlify.app/
 ### Github - https://github.com/gautamop01/Web-Page-of-ESPORTS-COMMUNITY
 #
-### Website - gamingdeviceguide.netlify.app
+### Website - https://gamingdeviceguide.netlify.app
 ### Github - https://github.com/gautamop01/The-Gamers-Buying-Guide
 # 
 
