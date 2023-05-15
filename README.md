@@ -3,11 +3,11 @@ https://gautamgaming.netlify.app/ (Main Website)
 
 All Components of this website -
 
-Website - https://esportscommunity.netlify.app/
-Github - https://github.com/gautamop01/Web-Page-of-ESPORTS-COMMUNITY
+# Website - https://esportscommunity.netlify.app/
+# Github - https://github.com/gautamop01/Web-Page-of-ESPORTS-COMMUNITY
 
-Website - gamingdeviceguide.netlify.app
-Github - https://github.com/gautamop01/The-Gamers-Buying-Guide
+# Website - gamingdeviceguide.netlify.app
+# Github - https://github.com/gautamop01/The-Gamers-Buying-Guide
 
 
 Website - https://gautamop-youtube.netlify.app/
