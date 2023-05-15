@@ -15,3 +15,6 @@ All Components of this website -
 #
 ### Website - https://gamingomusic.netlify.app/
 ### Github - https://github.com/gautamop01/Gamingo-The-Gaming-Music-Website
+#
+### Website - https://gamingshop2023.netlify.app/
+### Github - https://github.com/gautamop01/GAMING-SHOP-WEB-PAGE
