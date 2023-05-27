@@ -1,4 +1,5 @@
 # GAUTAM-GAMING
+The Gautam Gaming website features a variety of components that cater to all gaming enthusiasts out there. From buying sections for gaming products to gaming news, blogs, and videos, we've got it all covered.
 https://gautamgaming.netlify.app/ (Main Website)
 
 All Components of this website -
